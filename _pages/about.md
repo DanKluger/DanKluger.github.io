@@ -13,13 +13,11 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a [Michael Hammer Postdoctoral Fellow](https://idss.mit.edu/academics/ses_doc/ses-funding/hammer-fellows/) at the [MIT Institute for Data, Systems, and Society](https://idss.mit.edu/), where I am fortunate to be hosted by Professors [Sherrie Wang](https://sherriewang.github.io/) and [Stephen Bates](https://stephenbates19.github.io/). SAY SOMETHING ABOUT MY RESEARCH INTERESTS OR WHO I AM?
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I completed my PhD in Statistics at Stanford University, advised by [Art Owen](https://artowen.su.domains/) and [David Lobell](https://fse.fsi.stanford.edu/people/david_lobell). SAY STANFORD FELLOWSHIPS?? YALE MATH?
