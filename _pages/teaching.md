@@ -1,21 +1,21 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching Experience
+title: teaching
 description: 
 nav: true
 nav_order: 6
 ---
 
 Course Instructor, Stanford University
-======
+====
 
 Qualifying Exam Workshop in Applied Statistics (STATS 302)
 
 Statistical Consulting Workshop (STATS 390)
 
 Graduate Teaching Assistant, Stanford University
-======
+====
 
 Introduction to Statistical Inference (STATS 200)
 
@@ -33,7 +33,7 @@ Data Science 101 (STATS 101)
 
 
 Undergraduate Teaching Assistant, Yale University
-======
+====
 
 Intensive Introductory Statistics and Data Science
 
