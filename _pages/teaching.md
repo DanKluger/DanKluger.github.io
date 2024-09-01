@@ -11,6 +11,7 @@ As Course Instructor, Stanford University
 ======
 
 -Qualifying Exam Workshop in Applied Statistics (STATS 302)
+
 -Statistical Consulting Workshop (STATS 390)
 
 As Graduate Teaching Assistant, Stanford University
