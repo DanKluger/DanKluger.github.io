@@ -1,40 +1,40 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching Experience
 description: 
 nav: true
 nav_order: 6
 ---
 
-As Course Instructor, Stanford University
+Course Instructor, Stanford University
 ======
 
--Qualifying Exam Workshop in Applied Statistics (STATS 302)
+Qualifying Exam Workshop in Applied Statistics (STATS 302)
 
--Statistical Consulting Workshop (STATS 390)
+Statistical Consulting Workshop (STATS 390)
 
-As Graduate Teaching Assistant, Stanford University
+Graduate Teaching Assistant, Stanford University
 ======
 
--Introduction to Statistical Inference (STATS 200)
+Introduction to Statistical Inference (STATS 200)
 
--Introduction to Statistical Learning (STATS 216)
+Introduction to Statistical Learning (STATS 216)
 
--Experimental Design (STATS 363)
+Experimental Design (STATS 363)
 
--Probability Theory I (STATS 310A)
+Probability Theory I (STATS 310A)
 
--Mathematics of Sports (STATS 100)
+Mathematics of Sports (STATS 100)
 
--Applied Statistics I (STATS 305A)
+Applied Statistics I (STATS 305A)
 
--Data Science 101 (STATS 101)
+Data Science 101 (STATS 101)
 
 
-As Undergraduate Teaching Assistant, Yale University
+Undergraduate Teaching Assistant, Yale University
 ======
 
--Intensive Introductory Statistics and Data Science
+Intensive Introductory Statistics and Data Science
 
--(Bayesian) Probability and Statistics
+(Bayesian) Probability and Statistics
