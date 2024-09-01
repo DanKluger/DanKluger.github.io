@@ -2,11 +2,31 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+As Course Instructor, Stanford University
+======
 
-Organize your courses by years, topics, or universities, however you like!
+-Qualifying Exam Workshop in Applied Statistics (STATS 302)
+-Statistical Consulting Workshop (STATS 390)
+
+As Graduate Teaching Assistant, Stanford University
+======
+
+-Introduction to Statistical Inference (STATS 200)
+-Introduction to Statistical Learning (STATS 216)
+-Experimental Design (STATS 363)
+-Probability Theory I (STATS 310A)
+-Mathematics of Sports (STATS 100)
+-Applied Statistics I (STATS 305A)
+-Data Science 101 (STATS 101)
+
+
+As Undergraduate Teaching Assistant, Yale University
+======
+
+-Intensive Introductory Statistics and Data Science
+-(Bayesian) Probability and Statistics
