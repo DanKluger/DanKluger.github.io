@@ -233,14 +233,14 @@
       {% if entry.code %}
         <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
       {% endif %}
-      {% if entry.codeRPack %}
-        <a href="{{ entry.codeRPack }}" class="btn btn-sm z-depth-0" role="button">R</a>
+      {% if entry.coderpack %}
+        <a href="{{ entry.coderpack }}" class="btn btn-sm z-depth-0" role="button">R</a>
       {% endif %}
-     {% if entry.codePython %}
-        <a href="{{ entry.codePython }}" class="btn btn-sm z-depth-0" role="button">Python</a>
+     {% if entry.codepython %}
+        <a href="{{ entry.codepython }}" class="btn btn-sm z-depth-0" role="button">Python</a>
       {% endif %}
-  {% if entry.codeReproducibility %}
-        <a href="{{ entry.codeReproducibility }}" class="btn btn-sm z-depth-0" role="button">Reproducibility</a>
+  {% if entry.codereproducibility %}
+        <a href="{{ entry.codereproducibility }}" class="btn btn-sm z-depth-0" role="button">Reproducibility</a>
       {% endif %}
       {% if entry.poster %}
         {% if entry.poster contains '://' %}
