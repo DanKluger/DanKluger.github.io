@@ -37,4 +37,4 @@ Undergraduate Teaching Assistant, Yale University
 
 Intensive Introductory Statistics and Data Science
 
-(Bayesian) Probability and Statistics
+Probability and (Bayesian) Statistics
